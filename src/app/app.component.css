@@ -1,0 +1,26 @@
+#container {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+.button {
+    margin-right: 20px;
+    border: solid 1px;
+}
+.btnActive {
+    background-color: #67b7dc;
+}
+.container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.chartContainer {
+    width: 100%;
+    height: 600px;
+    padding-top: 50px;
+}
+.btnDiv {
+    padding-top: 30px;
+}
